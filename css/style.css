@@ -1,0 +1,12 @@
+.h1{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-size:50px;
+    display: flex;
+    justify-content: center;
+   } 
+.img1{ 
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+}
