@@ -1,3 +1,10 @@
+body{
+    background: url('../img/7c1476ac5ff92915d742c74181468d1e1871103313daee831042530daf9d08ed.jpg');
+}
+.table1{
+    max-width: 100%;
+    height: auto;
+}
 .h1{
     text-align: left;
     color: rgb(0, 0, 0);
@@ -9,4 +16,13 @@
     font-size: 18px;
     line-height: 30px;
     font-weight: 400;
+}
+.f1{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.25em;
+    font-weight: 700;
+    line-height: 220%;
+    background-color: #68dc72;
+    margin: 14px 0px 14px 0px;
+    padding: 2px;
 }
