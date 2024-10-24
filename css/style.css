@@ -26,3 +26,9 @@ body{
     margin: 14px 0px 14px 0px;
     padding: 2px;
 }
+.lasttext{
+    font-style: italic;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+}
